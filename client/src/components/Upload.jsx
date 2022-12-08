@@ -1,0 +1,80 @@
+const videos = [
+  {
+    id: 1,
+    imgUrl: "http://",
+    title: "ddddddd",
+    desc: "ddddddddddddd",
+    visibility: "Draft",
+    restrictions: "Not made for kids",
+    date: "Nov 12, 2022 uploaded",
+    views: 134,
+    comments: 0,
+    dislikes: 12,
+    likes: 14
+  },
+  {
+    id: 2,
+    imgUrl: "http://",
+    title: "ddddddd",
+    desc: "ddddddddddddd",
+    visibility: "Draft",
+    restrictions: "Not made for kids",
+    date: "Nov 12, 2022 uploaded",
+    views: 134,
+    comments: 0,
+    dislikes: 12,
+    likes: 14
+  },
+  {
+    id: 3,
+    imgUrl: "http://",
+    title: "ddddddd",
+    desc: "ddddddddddddd",
+    visibility: "Draft",
+    restrictions: "Not made for kids",
+    date: "Nov 12, 2022 uploaded",
+    views: 134,
+    comments: 0,
+    dislikes: 12,
+    likes: 14
+  },
+  {
+    id: 4,
+    imgUrl: "http://",
+    title: "ddddddd",
+    desc: "ddddddddddddd",
+    visibility: "Draft",
+    restrictions: "Not made for kids",
+    date: "Nov 12, 2022 uploaded",
+    views: 134,
+    comments: 0,
+    dislikes: 12,
+    likes: 14
+  },
+  {
+    id: 5,
+    imgUrl: "http://",
+    title: "ddddddd",
+    desc: "ddddddddddddd",
+    visibility: "Draft",
+    restrictions: "Not made for kids",
+    date: "Nov 12, 2022 uploaded",
+    views: 134,
+    comments: 0,
+    dislikes: 12,
+    likes: 14
+  },
+  {
+    id: 6,
+    imgUrl: "http://",
+    title: "ddddddd",
+    desc: "ddddddddddddd",
+    visibility: "Draft",
+    restrictions: "Not made for kids",
+    date: "Nov 12, 2022 uploaded",
+    views: 134,
+    comments: 0,
+    dislikes: 12,
+    likes: 14
+  }
+];
